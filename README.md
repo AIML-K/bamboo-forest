@@ -11,4 +11,4 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
   - A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. [arxiv](https://arxiv.org/abs/1707.06887)
   - Distributional Reinforcement Learning with Quantile Regression, Dabney et al, 2017. [arxiv](https://arxiv.org/abs/1710.10044)
   - Implicit Quantile Networks for Distributional Reinforcement Learning, Dabney et al, 2018. [arxiv](https://arxiv.org/abs/1806.06923)
-  
+  - [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
