@@ -35,3 +35,9 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
 - 시상식: 추후공지(연내 진행 예정)
 - 아.   서면심사: 접수 논문 서면심사를 통해 심사인원 선발 예정
 - 자.   문의처: innovation.fellowship.korea@qti.qualcomm.com
+
+
+### Pytorch published open source guide book, last week.
+
+You might be interested.
+link : https://pytorch.org/deep-learning-with-pytorch
