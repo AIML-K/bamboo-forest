@@ -6,13 +6,22 @@ Anyone can post anything on bamboo forest
 
 ### July
 
+July 30.
+- 발표자 이동헌
+
+July 16. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
+- 딥러닝세미나 / 발표자 수학과 오승상 교수님 7/2 발표 이어서
+
+July 9. 1PM-3PM @ 아산이학관 525호
+- 딥러닝세미나 / 발표자 김선중 학생
+  - DQN + 데모
+
 July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
-- (가칭) AI 세미나 / 발표자 수학과 오승상 교수님 / [발표자료](https://drive.google.com/file/d/1MywlzHzobu_aq7jFv2iQ4GyobNanfgHr/view?usp=sharing)
+- 딥러닝세미나 / 발표자 수학과 오승상 교수님 / [발표자료](https://drive.google.com/file/d/1MywlzHzobu_aq7jFv2iQ4GyobNanfgHr/view?usp=sharing)
   - A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. [arxiv](https://arxiv.org/abs/1707.06887)
   - Distributional Reinforcement Learning with Quantile Regression, Dabney et al, 2017. [arxiv](https://arxiv.org/abs/1710.10044)
   - Implicit Quantile Networks for Distributional Reinforcement Learning, Dabney et al, 2018. [arxiv](https://arxiv.org/abs/1806.06923)
   - [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
-
 
 
 
