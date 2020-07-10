@@ -33,6 +33,8 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
 - 나.   대상인원: 2020년 학사년도 기준 풀타임 석사/박사 과정 대학원생
 - 다.   대상논문: 인공지능(AI), 머신러닝(Machine Learning), 자율주행(Autonomous Driving)
 - 라.   온라인 설명회: https://bit.ly/2WxvYXI 을 통해 참석 (7월 1일 오후 3시)
+  - 설명회 링크는 작동안하고, 안내문은 [여기](https://www.qualcomm.com/media/documents/files/qualcomm-innovation-fellowship-korea-2020-program-information-korean-language.pdf)
+  - [웹사이트](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2020-south-korea)
 - 마.   접수 방법: https://bit.ly/2AaqQRV을 통한 온라인 접수 (접수 마감일 : 8월 31일)
 - 바.   시상내용: 최대 20개 논문 시상, 논문당 400만원 장학금 학교를 통해 지급
 - 사.   일정
