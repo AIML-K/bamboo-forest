@@ -8,8 +8,10 @@ Anyone can post anything on bamboo forest
 [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 
 July 30.
-- 발표자 이동헌 A3C
+- 발표자 이동헌 A3C 
+    - Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. [arxiv](https://arxiv.org/abs/1602.01783)
 - [캐글 RL코스](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) 를 먼저 살펴보면 도움이 됩니다. 
+- Learning "advantage" $:= Q(s,a) - V(s)$, by observing its sample estimate $\hat{R} - V(s)$.
 
 July 16. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
 - 딥러닝세미나 / 발표자 수학과 오승상 교수님 7/2 발표 이어서
