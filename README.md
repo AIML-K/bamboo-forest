@@ -13,6 +13,11 @@ July 30.
 - [캐글 RL코스](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) 를 먼저 살펴보면 도움이 됩니다. 
 - Learning "advantage" <img src="/tex/015511b3b78e1c5f09b49efc5c8ff340.svg?invert_in_darkmode&sanitize=true" align=middle width=125.22326519999999pt height=24.65753399999998pt/>, by observing its sample estimate <img src="/tex/5bd8e59d43178086231bf41f5549bd69.svg?invert_in_darkmode&sanitize=true" align=middle width=66.43260194999999pt height=31.141535699999984pt/>.
 
+July 23.
+- 발표자 ? 
+    - Quantile regression
+- 파파존스 피자가 온답니다. 몰래 치킨도 시킬 생각입니다. There is free lunch here.
+
 July 16. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
 - 딥러닝세미나 / 발표자 수학과 오승상 교수님 7/2 발표 이어서
 
