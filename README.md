@@ -10,6 +10,7 @@ Anyone can post anything on bamboo forest
 July 30.
 - 발표자 이동헌 A3C 
     - Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. [arxiv](https://arxiv.org/abs/1602.01783)
+- 발표자료 [ipynb](https://drive.google.com/file/d/12K_RBnOhD8uiwZCHONNw1QC6WCto8rf4/view?usp=sharing)
 - [캐글 RL코스](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) 를 먼저 살펴보면 도움이 됩니다. 
 - Learning "advantage" <img src="/tex/015511b3b78e1c5f09b49efc5c8ff340.svg?invert_in_darkmode&sanitize=true" align=middle width=125.22326519999999pt height=24.65753399999998pt/>, by observing its sample estimate <img src="/tex/5bd8e59d43178086231bf41f5549bd69.svg?invert_in_darkmode&sanitize=true" align=middle width=66.43260194999999pt height=31.141535699999984pt/>.
 
