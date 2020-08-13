@@ -6,6 +6,10 @@ Anyone can post anything on bamboo forest
 ### 딥러닝 세미나
 [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 
+#### 예제
+
+- 카톡 방에 거의 대부분 들어와 있으니, 아래 내용은 별도 문서로 따로 빼도 되겠지요?
+
 July 30.
 - 발표자 이동헌 A3C 
     - Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. [arxiv](https://arxiv.org/abs/1602.01783)
@@ -34,14 +38,16 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
 
 ### New Private Dataset (8/12)
 
-Dataset properties
-- 23 year long dataset
-- 33 measurement locations
+새로운 private 데이터셋이 손에 들어왔습니다. 다음과 같은 특성이 있어요.
+
+- 23 year long time series
+- 33 measurement locations (geotagged)
 - 13 dimension/feature (9 + 4)
-- Environment-related
-- Time-series
-- Contains N/A data 
-- Aiming for research publication in early 2021.
+- Environment related
+- Contains some missing data
+- Aiming for research publication as early as 2021 spring.
+
+즉시 연구 착수 가능하고, 환경 분야의 전문성은 포항공대에 연구팀이 있어서 그쪽에 맡깁니다. 물론, 그 분야 전문가들의 선입견을 깨뜨리면 신나는 연구이니, 이쪽에서 자유롭게 접근이 가능한 데이터셋입니다. 
 
 ### Qualcomm Innovation Fellowship Korea 2020 (~ 8/31)
 
