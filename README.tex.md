@@ -3,7 +3,6 @@ Anyone can post anything on bamboo forest
 
 ## What's Happening?
 
-
 ### 딥러닝 세미나
 [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 
@@ -32,6 +31,17 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
   - Implicit Quantile Networks for Distributional Reinforcement Learning, Dabney et al, 2018. [arxiv](https://arxiv.org/abs/1806.06923)
 
 ## News
+
+### New Private Dataset (8/12)
+
+Dataset properties
+- 23 year long dataset
+- 33 measurement locations
+- 13 dimension/feature (9 + 4)
+- Environment-related
+- Time-series
+- Contains N/A data 
+- Aiming for research publication in early 2021.
 
 ### Qualcomm Innovation Fellowship Korea 2020 (~ 8/31)
 
