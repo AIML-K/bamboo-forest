@@ -1,5 +1,5 @@
 # bamboo-forest
-Anyone can post anything on bamboo forest
+Anyone can post anything on bamboo forest.
 
 ## What's Happening?
 
