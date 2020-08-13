@@ -6,7 +6,7 @@ Anyone can post anything on bamboo forest
 ### 딥러닝 세미나
 [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 
-#### 예제
+#### 이동예정
 
 - 카톡 방에 거의 대부분 들어와 있으니, 아래 내용은 별도 문서로 따로 빼도 되겠지요?
 
