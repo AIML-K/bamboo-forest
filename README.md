@@ -3,14 +3,12 @@ Anyone can post anything on bamboo forest
 
 ## What's Happening?
 
-
 ### 딥러닝 세미나
 [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 
 July 30.
 - 발표자 이동헌 A3C 
     - Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. [arxiv](https://arxiv.org/abs/1602.01783)
-- 발표자료 [ipynb](https://drive.google.com/file/d/12K_RBnOhD8uiwZCHONNw1QC6WCto8rf4/view?usp=sharing)
 - [캐글 RL코스](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) 를 먼저 살펴보면 도움이 됩니다. 
 - Learning "advantage" <img src="/tex/015511b3b78e1c5f09b49efc5c8ff340.svg?invert_in_darkmode&sanitize=true" align=middle width=125.22326519999999pt height=24.65753399999998pt/>, by observing its sample estimate <img src="/tex/5bd8e59d43178086231bf41f5549bd69.svg?invert_in_darkmode&sanitize=true" align=middle width=66.43260194999999pt height=31.141535699999984pt/>.
 
@@ -33,6 +31,17 @@ July 2. 1PM-3PM? @ 아산이학관 525호 (넘치면 536호)
   - Implicit Quantile Networks for Distributional Reinforcement Learning, Dabney et al, 2018. [arxiv](https://arxiv.org/abs/1806.06923)
 
 ## News
+
+### New Private Dataset (8/12)
+
+Dataset properties
+- 23 year long dataset
+- 33 measurement locations
+- 13 dimension/feature (9 + 4)
+- Environment-related
+- Time-series
+- Contains N/A data 
+- Aiming for research publication in early 2021.
 
 ### Qualcomm Innovation Fellowship Korea 2020 (~ 8/31)
 
