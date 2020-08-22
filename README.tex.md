@@ -9,6 +9,13 @@ Anyone can post anything on bamboo forest.
 
 ## News
 
+### New Device Available (8/23)
+
+새로운 설비를 사용할 수 있게 되었습니다. 사양은 다음과 같습니다.
+
+- CPU: Intel 16 core
+- GPU: Tesla V100 x2
+
 ### New Private Dataset (8/12)
 
 새로운 private 데이터셋이 손에 들어왔습니다. 다음과 같은 특성이 있어요.
