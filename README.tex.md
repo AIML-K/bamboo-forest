@@ -1,9 +1,14 @@
 # bamboo-forest
 Anyone can post anything on bamboo forest.
 
+## What's New
+
+- 8/27 세미나 후의 대면 디브리핑은 없습니다. 논의 채널 문서를 이용하도록 하겠습니다.
+
 ## What's Happening?
 
 ### 딥러닝 세미나
+- 세미나 요일이 2학기 개강하면 목요일에서 금요일로 바뀔 예정입니다.
 - [세미나 논의채널 공유문서](https://docs.google.com/document/d/1NlTqQE3a3wcEgpel9MC9XzXz36fT725zYzLQE7pCyww/edit?usp=sharing)
 - [지난일정들](https://github.com/AIL-K/bamboo-forest/blob/master/seminar_deep_RL_math.md)
 
