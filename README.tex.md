@@ -3,7 +3,11 @@ Anyone can post anything on bamboo forest.
 
 ## What's New
 
-- 8/27 세미나 후의 대면 디브리핑은 없습니다. 논의 채널 문서를 이용하도록 하겠습니다.
+### Town Hall Meeting
+
+Anyone can come and join.
+
+- 9/11 금요일 11AM-11:30AM at [Google Meet](https://meet.google.com/oqp-ncjg-pki?hs=122&authuser=0)
 
 ## What's Happening?
 
