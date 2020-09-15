@@ -6,7 +6,7 @@ Anyone can post anything on bamboo forest.
 '2020 인공지능 학습용 데이터 구축 사업'의 결과물로 구축된 AI 학습용 데이터의 활용을 위해,
 의료영상 데이터를 이용하여 실제 구현 가능한 인공지능 학습 모델을 기획하고 개발하는 Korea Health Datathon이 개최됩니다.
 
-접수는 2020년 9월 17일 목요일까지로, [https://bit.ly/3hLEBYe]에서 가능합니다.
+접수는 2020년 9월 17일 목요일까지로, [https://bit.ly/3hLEBYe] 에서 가능합니다.
 
 ### Town Hall Meeting
 
