@@ -23,6 +23,12 @@ Anyone can come and join.
 
 ## News
 
+### NVIDIA GTC 2020 (10/5 - 10/9)
+
+NVIDIA에서 여는 온라인 테크 컨퍼런스가 내일부터네요. 학교 이메일로 등록 시 무료로 참가할 수 있고, 최근에 나온 OpenAI의 GPT-3 발표부터 젠슨황의 키노트까지 다양한 프로그램이 있으니 관심 있으시면 살펴보시는 것도 좋을 것 같습니다.
+
+[링크](https://www.nvidia.com/en-us/gtc/session-catalog/?search=&search.language=1594320459782001LCjF&tab.catalogtabfields=1600209910618001TWM3)
+
 ### New Device Available (8/23)
 
 새로운 설비를 사용할 수 있게 되었습니다. 사양은 다음과 같습니다.
