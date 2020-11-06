@@ -1,11 +1,6 @@
 # bamboo-forest
 Anyone can post anything on bamboo forest.
 
-## News
-슬랙에 AIL-K팀 만들었습니다.
-
-https://join.slack.com/t/ail-k/shared_invite/zt-ikhw9m93-wNoHyAZz3UawqhhY50cb6g
-
 ## What's New
 ### Korea Health Datathon 2020
 '2020 인공지능 학습용 데이터 구축 사업'의 결과물로 구축된 AI 학습용 데이터의 활용을 위해,
