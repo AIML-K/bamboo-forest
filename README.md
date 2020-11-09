@@ -1,6 +1,11 @@
 # bamboo-forest
 Anyone can post anything on bamboo forest.
 
+## Online Conference
+KSIAM Annual Meeting
+DL 세션으로 도배되어서 재미있어 보입니다. 
+http://www.ksiam.org/
+
 ## What's New
 ### Korea Health Datathon 2020
 '2020 인공지능 학습용 데이터 구축 사업'의 결과물로 구축된 AI 학습용 데이터의 활용을 위해,
