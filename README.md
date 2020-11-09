@@ -4,7 +4,7 @@ Anyone can post anything on bamboo forest.
 ## Online Conference
 KSIAM Annual Meeting(http://www.ksiam.org/)
 
-DATE: 2020년 11월 12일(목) - 15일(일)
+Date: 2020년 11월 12일(목) - 15일(일)
 
 DL 세션으로 도배되어서 재미있어 보입니다. 
 
