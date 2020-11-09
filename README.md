@@ -2,9 +2,9 @@
 Anyone can post anything on bamboo forest.
 
 ## Online Conference
-KSIAM Annual Meeting
+KSIAM Annual Meeting(http://www.ksiam.org/)
+
 DL 세션으로 도배되어서 재미있어 보입니다. 
-http://www.ksiam.org/
 
 ## What's New
 ### Korea Health Datathon 2020
