@@ -3,8 +3,8 @@ Anyone can post anything on bamboo forest.
 
 ## AIL-K on Slack
 인공지능 연구실에서 같이 공부하는 채팅방입니다. 가벼운 분위기를 추구합니다. 하단 링크 클릭!
-
-https://join.slack.com/t/ail-k/shared_invite/zt-ikhw9m93-wNoHyAZz3UawqhhY50cb6g
+https://join.slack.com/t/ail-k/shared_invite/zt-jou8uo2t-3H7dqOe_8MagYckJJRuIGA
+(2021-01-03까지 유효)
 
 ## Online Conference
 KSIAM Annual Meeting(http://www.ksiam.org/)
