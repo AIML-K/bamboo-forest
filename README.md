@@ -1,6 +1,24 @@
 # bamboo-forest
 Anyone can post anything on bamboo forest.
 
+## Reading Group season 0
+
+리딩그룹을 시도합니다. 일단 다음과 같은 기본사항으로 시작해봅시다:
+
+- 1주에 1번. 2021년 1-2월 (겨울방학 시즌).
+- 비대면 온라인이 기본이지만, 학교에 있으면 함께 들어도 무방.
+- 시간 미정. 주중. 최대 2시간.
+- 매주 논문이나 북 챕터를 다루려고 합니다. 읽고 싶은/읽어보고 싶었던/읽어야 하는 것들을 슬랙 discussion채널에 투척해주세요. 투척하는 순간 참가 확정!
+- 구성 예시
+  - 1주차 전반: general discussion / suggestions
+  - 1주차 후반: intro of week 1 paper -- presenter quickly presents the paper, and participants freely ask questions & cause discussion / presenter not required to provide an answer
+  - 2주차 전반: recap of week 1 paper -- presenter follows up questions from last week + conclude dangling discussions on the paper
+  - 2주차 후반: intro of week 2 paper
+  - 3주차 전반: recap of week 2 paper
+  - 3주차 후반: intro of week 3 paper 
+  
+21학년도 1학기 개강 전까지 4-5회차 정도 가능할 것 같아보입니다. 
+
 ## AIL-K on Slack
 인공지능 연구실에서 같이 공부하는 채팅방입니다. 가벼운 분위기를 추구합니다. 하단 링크 클릭!
 https://join.slack.com/t/ail-k/shared_invite/zt-jou8uo2t-3H7dqOe_8MagYckJJRuIGA
