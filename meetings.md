@@ -8,7 +8,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 Monday 7/19 (regular)
 - State of the lab (@d-h-lee)
-- (open)
+- gRPC Overview(@dkimds)
 - (open)
 
 Wednesday 7/21 (theme: docker)
