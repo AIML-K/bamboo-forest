@@ -1,13 +1,16 @@
 # bamboo-forest
 Anyone can post anything on bamboo forest. 
+Feel free to post issues and contribute to any issues.
 
 ## Summer 2021 of AIML-K
 
-### Weekly Meetings
+### Weekly Meetings 
+
+For schedule, visit [link](/meetings.md). 
 
 Each meetings are 1 hour long, unless special needs come up. 
 
-- Monday meeting: 4-5PM
+- Monday meeting: 4-5PM 
 	- This is general meeting. Everyone is expected to attend (either online or offline)
 	- Anyone who wants to speak up -- let me know in advance.
 - Wednesday meeting: 4-5PM
