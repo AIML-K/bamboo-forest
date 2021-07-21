@@ -8,6 +8,10 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
   - Meeting ID: 814 9411 4498
   - Passcode: EFZ5=a$Sh7
 
+- Wednesday meeting Zoom [link](https://korea-ac-kr.zoom.us/j/89960208905?pwd=V3Q5MUdGZCthV2VIVHg3YXpMWDBadz09)
+  - Meeting ID: 899 6020 8905
+  - Passcode: i5xDXp+Eu3
+
 ### Coming up
 
 Monday 7/19 (regular)
