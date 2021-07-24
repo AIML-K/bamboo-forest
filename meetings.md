@@ -11,16 +11,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 - Wednesday meeting Zoom [link](https://korea-ac-kr.zoom.us/j/89960208905?pwd=V3Q5MUdGZCthV2VIVHg3YXpMWDBadz09)
   - Meeting ID: 899 6020 8905
   - Passcode: i5xDXp+Eu3
-
-### Past Meetings
-
-Monday 7/19 (regular)
-- State of the lab (@d-h-lee)
-- gRPC Overview(@dkimds)
-
-Wednesday 7/21 (theme: docker)
-- Packing data into docker image (@d-h-lee). BYOL. 
-
+x
 
 ### Coming up
 
@@ -46,3 +37,13 @@ Wednesday 8/4 (theme: ?)
 - (open)
 - (open)
 - (open)
+
+
+### Past Meetings
+
+Monday 7/19 (regular)
+- State of the lab (@d-h-lee)
+- gRPC Overview(@dkimds)
+
+Wednesday 7/21 (theme: docker)
+- Packing data into docker image (@d-h-lee). BYOL. 
