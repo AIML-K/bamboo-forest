@@ -11,12 +11,12 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 - Wednesday meeting Zoom [link](https://korea-ac-kr.zoom.us/j/89960208905?pwd=V3Q5MUdGZCthV2VIVHg3YXpMWDBadz09)
   - Meeting ID: 899 6020 8905
   - Passcode: i5xDXp+Eu3
-x
+
 
 ### Coming up
 
 Monday 7/26 (regular)
-- (open)
+- Remote debugging in VSCode (@d-h-lee)
 - (open)
 - (open)
 
