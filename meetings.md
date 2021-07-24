@@ -12,29 +12,30 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
   - Meeting ID: 899 6020 8905
   - Passcode: i5xDXp+Eu3
 
-### Coming up
+### Past Meetings
 
 Monday 7/19 (regular)
 - State of the lab (@d-h-lee)
 - gRPC Overview(@dkimds)
-- (open)
 
 Wednesday 7/21 (theme: docker)
 - Packing data into docker image (@d-h-lee). BYOL. 
-- (open)
-- (open)
 
-### Future meetings
+
+### Coming up
 
 Monday 7/26 (regular)
 - (open)
 - (open)
 - (open)
 
-Wednesday 7/28 (theme: ?)
+Wednesday 7/28 (theme: Github)
+- Efficient Git branching (@cth127)
+- Using Github as a research note (half session) (@cth127)
 - (open)
-- (open)
-- (open)
+
+
+### Future meetings
 
 Monday 8/2 (regular)
 - (open)
