@@ -15,25 +15,25 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 7/26 (regular)
-- Remote debugging in VSCode (@d-h-lee)
-- (open)
-- (open)
-
-Wednesday 7/28 (theme: Github)
-- Efficient Git branching (@cth127)
-- Using Github as a research note (half session) (@cth127)
-- (open)
-
-
-### Future meetings
-
 Monday 8/2 (regular)
 - (open)
 - (open)
 - (open)
 
 Wednesday 8/4 (theme: ?)
+- (open)
+- (open)
+- (open)
+
+
+### Future meetings
+
+Monday 8/9 (regular)
+- (open)
+- (open)
+- (open)
+
+Wednesday 8/11 (theme: ?)
 - (open)
 - (open)
 - (open)
@@ -47,3 +47,13 @@ Monday 7/19 (regular)
 
 Wednesday 7/21 (theme: docker)
 - Packing data into docker image (@d-h-lee). BYOL. 
+
+Monday 7/26 (regular)
+- Remote debugging in VSCode (@d-h-lee)
+- (open)
+- (open)
+
+Wednesday 7/28 (theme: Github)
+- Efficient Git branching (@cth127)
+- Using Github as a research note (half session) (@cth127)
+- (open)
