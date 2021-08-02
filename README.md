@@ -38,10 +38,13 @@ Each meetings are 1 hour long, unless special needs come up.
 
 ## Project: Earthquake
 
-- If you are interested in taking the lead, contact @d-h-lee
+- If you are interested, contact @d-h-lee
 
 ## Project: MathAI
 
 - For more info, contact the lead
 - Lead: @cth127
 
+## Project: Biomedical
+
+- If you are interested, contact @d-h-lee
