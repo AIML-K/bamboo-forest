@@ -16,7 +16,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 ### Coming up
 
 Monday 8/2 (regular)
-- (open)
+- Monthly update of AIL@K (@d-h-lee)
 - (open)
 - (open)
 
