@@ -15,12 +15,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/2 (regular)
-- Monthly update of AIL@K (@d-h-lee)
-- (open)
-- (open)
-
-Wednesday 8/4 (theme: ?)
+Wednesday 8/4 (theme: stylebot_dockers): 2hr meeting expected
 - (open)
 - (open)
 - (open)
@@ -56,4 +51,9 @@ Monday 7/26 (regular)
 Wednesday 7/28 (theme: Github)
 - Efficient Git branching (@cth127)
 - Using Github as a research note (half session) (@cth127)
+- (open)
+
+Monday 8/2 (regular)
+- Monthly update of AIL@K (@d-h-lee)
+- (open)
 - (open)
