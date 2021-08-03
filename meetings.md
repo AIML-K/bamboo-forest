@@ -16,10 +16,14 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 ### Coming up
 
 Wednesday 8/4 (theme: stylebot_dockers): 2hr meeting expected
+- wild_retrieval container overview with gRPC (@invigorator96)
+  - individual code reviews of `subretrieval`,`wild_seg`,`wild_kps` will be excluded
+  - will be based on [retrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/wild_retrieval/code_review.md)
+- subretrieval container code review (@invigorator96)
+  - preprocess results will be included. see [issue](https://github.com/AIML-K/stylebot_dockers/issues/37)
+  - will be based on [subretrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/subretrieval/code_review.md)
 - (open)
 - (open)
-- (open)
-
 
 ### Future meetings
 
