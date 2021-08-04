@@ -30,7 +30,7 @@ Wednesday 8/4 (theme: stylebot_dockers): 2hr meeting expected
 
 Monday 8/9 (regular)
 - (open)
-- (open)
+- Short presentation on (paper TBA) -- 조근석
 - (open)
 
 Wednesday 8/11 (theme: ?)
