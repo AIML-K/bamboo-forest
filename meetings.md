@@ -15,7 +15,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4PM as usual)
+Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4:30PM @ Asan 526)
 - Introduction (@liquoricej)
   - Brief overview of our project
   - How to update CUDA version
