@@ -15,22 +15,9 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4:30PM @ Asan 526)
-- Introduction (@liquoricej)
-  - Brief overview of our project
-  - How to update CUDA version
-- wild_retrieval container overview with gRPC (@invigorator96)
-  - individual code reviews of `subretrieval`,`wild_seg`,`wild_kps` will be excluded
-  - will be based on [retrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/wild_retrieval/code_review.md)
-- subretrieval container code review (@invigorator96)
-  - preprocess results will be included. see [issue](https://github.com/AIML-K/stylebot_dockers/issues/37)
-  - will be based on [subretrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/subretrieval/code_review.md)
-
-### Future meetings
-
-Monday 8/9 (regular)
-- (open)
-- Short presentation on (paper TBA) -- 조근석
+Monday 8/9 (regular) 4PM
+- Biweekly Lab Update -- dhl
+- Short presentation on Fast Reinforcement Learning with Generalized Policy Updates [paper link](https://www.pnas.org/content/117/48/30079) -- 조근석
 - (open)
 
 Wednesday 8/11 (theme: ?)
@@ -38,6 +25,15 @@ Wednesday 8/11 (theme: ?)
 - (open)
 - (open)
 
+### Future meetings
+
+
+Monday 8/16 (Independence Day! No meeting)
+
+Wednesday 8/18 (theme: ?)
+- (open)
+- (open)
+- (open)
 
 ### Past Meetings
 
@@ -62,3 +58,15 @@ Monday 8/2 (regular)
 - Monthly update of AIL@K (@d-h-lee)
 - (open)
 - (open)
+
+Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4:30PM @ Asan 526)
+- Introduction (@liquoricej)
+  - Brief overview of our project
+  - How to update CUDA version
+- wild_retrieval container overview with gRPC (@invigorator96)
+  - individual code reviews of `subretrieval`,`wild_seg`,`wild_kps` will be excluded
+  - will be based on [retrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/wild_retrieval/code_review.md)
+- subretrieval container code review (@invigorator96)
+  - preprocess results will be included. see [issue](https://github.com/AIML-K/stylebot_dockers/issues/37)
+  - will be based on [subretrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/subretrieval/code_review.md)
+
