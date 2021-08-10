@@ -15,13 +15,8 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/9 (regular) 4PM
-- Biweekly Lab Update -- dhl
-- Short presentation on Fast Reinforcement Learning with Generalized Policy Updates [paper link](https://www.pnas.org/content/117/48/30079) -- 조근석
-- (open)
-
-Wednesday 8/11 (theme: ?)
-- (open)
+Wednesday 8/11 (theme: Project : MathAI)
+- Current status of project : MathAI + code demo (@cth127, 1.5 session)
 - (open)
 - (open)
 
@@ -46,18 +41,13 @@ Wednesday 7/21 (theme: docker)
 
 Monday 7/26 (regular)
 - Remote debugging in VSCode (@d-h-lee)
-- (open)
-- (open)
 
 Wednesday 7/28 (theme: Github)
 - Efficient Git branching (@cth127)
 - Using Github as a research note (half session) (@cth127)
-- (open)
 
 Monday 8/2 (regular)
 - Monthly update of AIL@K (@d-h-lee)
-- (open)
-- (open)
 
 Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4:30PM @ Asan 526)
 - Introduction (@liquoricej)
@@ -70,3 +60,7 @@ Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4
   - preprocess results will be included. see [issue](https://github.com/AIML-K/stylebot_dockers/issues/37)
   - will be based on [subretrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/subretrieval/code_review.md)
 
+
+Monday 8/9 (regular) 4PM
+- Biweekly Lab Update -- dhl
+- Short presentation on Fast Reinforcement Learning with Generalized Policy Updates [paper link](https://www.pnas.org/content/117/48/30079) -- 조근석
