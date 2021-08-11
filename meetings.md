@@ -15,20 +15,26 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Wednesday 8/11 (theme: Project : MathAI)
-- Current status of project : MathAI + code demo (@cth127, 1.5 session)
-- (open)
-- (open)
-
-### Future meetings
-
-
 Monday 8/16 (Independence Day! No meeting)
 
 Wednesday 8/18 (theme: ?)
 - (open)
 - (open)
 - (open)
+
+
+### Future meetings
+
+Monday 8/23 (regular)
+- (open)
+- (open)
+- (open)
+
+Wednesday 8/26 (theme: ???)
+- (open)
+- (open)
+- (open)
+
 
 ### Past Meetings
 
@@ -60,7 +66,9 @@ Wednesday 8/4 (theme: stylebot_dockers): ~~2hr meeting expected~~ (starting at 4
   - preprocess results will be included. see [issue](https://github.com/AIML-K/stylebot_dockers/issues/37)
   - will be based on [subretrieval review markdown](https://github.com/AIML-K/stylebot_dockers/blob/issue1_jaeheun/subretrieval/code_review.md)
 
-
 Monday 8/9 (regular) 4PM
 - Biweekly Lab Update -- dhl
 - Short presentation on Fast Reinforcement Learning with Generalized Policy Updates [paper link](https://www.pnas.org/content/117/48/30079) -- 조근석
+
+Wednesday 8/11 (theme: Project : MathAI)
+- Current status of project : MathAI + code demo (@cth127, 1.5 session)
