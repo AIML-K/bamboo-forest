@@ -35,6 +35,7 @@ Wednesday 8/25 (theme: MathAI paper review) **(can be moved to 8/23 if the kick-
 - “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
 - “Translating math word problem to expression tree” (@cth127)
 - “Template-based math word problem solvers with recursive neural networks” (@liquoricej)
+- "Measuring Mathematical Problem Solving With the MATH Dataset" (@cth127)
 
 
 ### Past Meetings
