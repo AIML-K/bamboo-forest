@@ -31,9 +31,9 @@ Monday 8/23 (regular)
 - (open)
 
 Wednesday 8/25 (theme: MathAI paper review) **(can be moved to 8/23 if the kick-off meeting about project : earthquake conflicts)**
+- “Deep neural solver for math word problems” (@wheresmadog)
 - “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
 - “Translating math word problem to expression tree” (@cth127)
-- “Deep neural solver for math word problems” (@wheresmadog)
 - “Template-based math word problem solvers with recursive neural networks” (@liquoricej)
 
 
