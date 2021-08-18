@@ -15,7 +15,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/23 (*theme: MathAI paper review*) **(moved to 8/23 due to the kick-off meeting about project : earthquake on 8/25)**
+Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 due to the kick-off meeting about project : earthquake on 8/25)**
 - “Deep neural solver for math word problems” (@wheresmadog)
 - “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
 - “Translating math word problem to expression tree” (@cth127)
