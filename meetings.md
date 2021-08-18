@@ -15,27 +15,27 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/16 (Independence Day! No meeting)
-
-Wednesday 8/18 (individual meeting: each slot = 30 minutes, starting from 4pm)
-- (open)
-- (open)
-- (open)
-
-
-### Future meetings
-
-Monday 8/23 (regular)
-- (open)
-- (open)
-- (open)
-
-Wednesday 8/25 (theme: MathAI paper review) **(can be moved to 8/23 if the kick-off meeting about project : earthquake conflicts)**
+Monday 8/23 (*theme: MathAI paper review*) **(moved to 8/23 due to the kick-off meeting about project : earthquake on 8/25)**
 - “Deep neural solver for math word problems” (@wheresmadog)
 - “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
 - “Translating math word problem to expression tree” (@cth127)
 - “Template-based math word problem solvers with recursive neural networks” (@liquoricej)
 - "Measuring Mathematical Problem Solving With the MATH Dataset" (@cth127)
+
+Wednesday 8/25 (no meeting)
+
+### Future meetings
+
+Monday 8/30 (regular)
+- Biweekly lab update (@d-h-lee)
+- Fall semester meeting schedule discussion (@d-h-lee)
+- (open)
+
+Wednesday 9/1 (theme: ______ )  
+- (open)
+- (open)
+- (open)
+
 
 
 ### Past Meetings
@@ -74,3 +74,7 @@ Monday 8/9 (regular) 4PM
 
 Wednesday 8/11 (theme: Project : MathAI)
 - Current status of project : MathAI + code demo (@cth127, 1.5 session)
+
+Monday 8/16 (Independence Day! No meeting)
+
+Wednesday 8/18 (individual meeting: each slot = 30 minutes, starting from 4pm)
