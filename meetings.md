@@ -17,7 +17,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 Monday 8/16 (Independence Day! No meeting)
 
-Wednesday 8/18 (theme: ?)
+Wednesday 8/18 (individual meeting: each slot = 30 minutes, starting from 4pm)
 - (open)
 - (open)
 - (open)
