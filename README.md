@@ -4,9 +4,10 @@ Feel free to post issues and contribute to any issues.
 
 ## Summer 2021 of AIML-K
 
-Unusual Events
+August Events
 - 8/12 Thurs 3-4PM: AI Grand Challenge seminar @ Zoom
   - "차주 대회 공고 전에 저희의 기획의도를 명확히 설명드리고, 몇가지 기술적인 내용들도 논의하면서 해당 내용을 대회 공고 후 유튜브에 공개하여 신규 챌린저들이 참고할 수 있도록 하는 것이 어떨까 합니다. 이에 총괄운영기관인 KETI와 협의하여 온라인 미니 워크숍 형태로 만나는 자리를 마련하였습니다"
+- 8/25 Wed Time TBD: Project Earthquake kick-off meeting	
 
 ### Weekly Meetings 
 
