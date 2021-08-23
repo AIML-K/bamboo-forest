@@ -15,16 +15,6 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 due to the kick-off meeting about project : earthquake on 8/25)**
-- “Deep neural solver for math word problems” (@wheresmadog)
-- “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
-- “Translating math word problem to expression tree” (@cth127)
-- ~~“Template-based math word problem solvers with recursive neural networks” (@liquoricej)~~
-- "Measuring Mathematical Problem Solving With the MATH Dataset" (@cth127)
-- Admin stuff (in-between slots)
-  - AGC2021 2nd participation roll call (@cth127)
-  - fall semester meeting schedule discussion (@d-h-lee)
-
 Wednesday 8/25 (no meeting)
 
 ### Future meetings
@@ -37,7 +27,7 @@ Monday 8/30 (regular)
 **Tuesday 8/31** (theme: summer wrap-up) - 20-minute session for everyone 
 - Share your summer experience! Not necessarily research, but you're welcome to add research flavor!
 - Time: 2PM - 6PM
-- (open)
+- What I've learned from Summer School(a.k.a. RL Study): Rationalism vs. Empiricism (@cth127)
 - (open)
 - (open)
 - (open)
@@ -89,3 +79,13 @@ Wednesday 8/11 (theme: Project : MathAI)
 Monday 8/16 (Independence Day! No meeting)
 
 Wednesday 8/18 (individual meeting: each slot = 30 minutes, starting from 4pm)
+
+Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 due to the kick-off meeting about project : earthquake on 8/25)**
+- “Deep neural solver for math word problems” (@wheresmadog)
+- “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
+- “Translating math word problem to expression tree” (@cth127)
+- ~~“Template-based math word problem solvers with recursive neural networks” (@liquoricej)~~
+- "Measuring Mathematical Problem Solving With the MATH Dataset" (@cth127)
+- Admin stuff (in-between slots)
+  - AGC2021 2nd participation roll call (@cth127)
+  - fall semester meeting schedule discussion (@d-h-lee)
