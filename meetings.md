@@ -19,8 +19,11 @@ Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 
 - “Deep neural solver for math word problems” (@wheresmadog)
 - “Mathdqn:Solving arithmetic word problems via deep reinforcement learning” (@invigorator96)
 - “Translating math word problem to expression tree” (@cth127)
-- “Template-based math word problem solvers with recursive neural networks” (@liquoricej)
+- ~~“Template-based math word problem solvers with recursive neural networks” (@liquoricej)~~
 - "Measuring Mathematical Problem Solving With the MATH Dataset" (@cth127)
+- Admin stuff (in-between slots)
+  - AGC2021 2nd participation roll call (@cth127)
+  - fall semester meeting schedule discussion (@d-h-lee)
 
 Wednesday 8/25 (no meeting)
 
@@ -28,7 +31,7 @@ Wednesday 8/25 (no meeting)
 
 Monday 8/30 (regular)
 - Biweekly lab update (@d-h-lee)
-- Fall semester meeting schedule discussion (@d-h-lee)
+- Introducing new members! 
 - (open)
 
 **Tuesday 8/31** (theme: summer wrap-up) - 20-minute session for everyone 
