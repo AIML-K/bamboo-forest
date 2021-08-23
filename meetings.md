@@ -31,11 +31,19 @@ Monday 8/30 (regular)
 - Fall semester meeting schedule discussion (@d-h-lee)
 - (open)
 
-Wednesday 9/1 (theme: ______ )  
+**Tuesday 8/31** (theme: summer wrap-up) - 20-minute session for everyone 
+- Share your summer experience! Not necessarily research, but you're welcome to add research flavor!
+- Time: 2PM - 6PM
 - (open)
 - (open)
 - (open)
-
+- (open)
+- (open)
+- (open)
+- (open)
+- (open)
+- (open)
+- (open)
 
 
 ### Past Meetings
