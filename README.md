@@ -7,7 +7,7 @@ Feel free to post issues and contribute to any issues.
 August Events
 - 8/12 Thurs 3-4PM: AI Grand Challenge seminar @ Zoom
   - "차주 대회 공고 전에 저희의 기획의도를 명확히 설명드리고, 몇가지 기술적인 내용들도 논의하면서 해당 내용을 대회 공고 후 유튜브에 공개하여 신규 챌린저들이 참고할 수 있도록 하는 것이 어떨까 합니다. 이에 총괄운영기관인 KETI와 협의하여 온라인 미니 워크숍 형태로 만나는 자리를 마련하였습니다"
-- 8/25 Wed Time TBD: Project Earthquake kick-off meeting
+- 8/25 Wed 1:30PM-5PM?: Project Earthquake kick-off meeting (details [here](https://github.com/AIML-K/bamboo-forest#project-earthquake-kick-off-meeting-online)) 
 
 ### Project Earthquake Kick-off Meeting (online)
 - Zoom online meeting
@@ -18,12 +18,10 @@ August Events
 - Speakers from 고려대 지진연구실
 1. 김인호 : Discrimination of Small-to-moderate Seismic Events Using Deep Learning with Three-component Spectrograms and Pg/Lg Spectral Amplitude Ratios in the Korean Peninsula
 2. 한종원 : 머신러닝을 활용한 지진학 연구 소개  및 경주 여진 데이터 적용 사례
-3. 이지연 : Bayesian full moment tensor inverion of the EGS related events in Pohang
-4. 김민경 : Pn, Sn 토모그래피를 이용한 한반도 최상부 맨틀 3차원 속도구조 연구
-5. 조경준 : core refracted phase의 manual picking을 통한 shear wave splitting 측정
-6. 임연주 : 수신함수와 표면파분산의 베이지안 통합역산으로 추정된 백두산 및 주변지역 하부 암석권 구조 변화
-7. 이수진 : 배경 잡음을 활용한 제주도 표면파 속도 변화 분석
 8. 박하영 : 머신러닝을 사용한 강지진동 예측식 개발 방법		
+
+- Speakers from 부경대
+1. 허다빈
 
 - Speakers from 전남대 지진연구실
 1. 김보현: 템플릿 매칭을 이용한 순천, 해남 미소지진 탐색 및 여진 활동 비교
