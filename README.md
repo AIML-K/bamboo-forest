@@ -10,8 +10,10 @@ August Events
 - 8/25 Wed 1:30PM-5PM?: Project Earthquake kick-off meeting (details [here](https://github.com/AIML-K/bamboo-forest#project-earthquake-kick-off-meeting-online)) 
 
 ### Project Earthquake Kick-off Meeting (online)
-- Zoom online meeting
-- Time TBD
+- Zoom online meeting link https://korea-ac-kr.zoom.us/j/87823101564?pwd=SndTOWRpZUdma3ROMWlHemI0ZHlqUT09
+  - 회의 ID: 878 2310 1564
+  - 암호: Seism2021!
+- Time 1:30pm~
 - 각자의 연구를 간단히 소개하여 ML 기법 적용 가능성을 논의하는 자리가 될 수 있도록 관련성이 낮은 주제도 발표/공유하는 자리
   - 지진과제와 연구주제 관련성이 낮은 경우, 가능하며 짧게 연구의 방법론과 개념 위주로 발표
 
