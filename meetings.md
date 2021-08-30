@@ -14,7 +14,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
 
 ### Coming up
 
-Monday 8/30 (regular)
+Monday 8/30 (regular) at Asan 526 and zoom [link](https://korea-ac-kr.zoom.us/j/81494114498?pwd=RXZYNUFXNk84aC9mMkU5T1ZTeWlwQT09)
 - Biweekly lab update (@d-h-lee)
 - Introducing new members! 
 - (open)
