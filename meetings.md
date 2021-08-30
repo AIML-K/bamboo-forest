@@ -12,12 +12,7 @@ Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
   - Meeting ID: 899 6020 8905
   - Passcode: i5xDXp+Eu3
 
-
 ### Coming up
-
-Wednesday 8/25 (no meeting)
-
-### Future meetings
 
 Monday 8/30 (regular)
 - Biweekly lab update (@d-h-lee)
@@ -89,3 +84,26 @@ Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 
 - Admin stuff (in-between slots)
   - AGC2021 2nd participation roll call (@cth127)
   - fall semester meeting schedule discussion (@d-h-lee)
+
+Wednesday 8/25 (no meeting)
+
+
+
+## 2021 fall semester
+
+All reservations are: Room 526
+- Wednesday: 3PM-evening (regular + on-demand themed)
+  - 5-6PM time is taken for regular meeting.
+  - other time slots: feel free to take them as needed (just update them here)
+- Friday: 11AM-1PM (AGC weekly meeting?)
+
+### Future meetings
+
+Wednesday 9/1
+- 3-4PM
+- 4-5PM
+- 5-6PM: regular meeting
+  - Keynote: on fall semester (@d-h-lee)
+  - (open)
+  - (open)
+  
