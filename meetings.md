@@ -4,20 +4,40 @@
 ## 2021 fall semester
 
 All reservations are: Room 526
-- Wednesday: 3PM-evening (regular + on-demand themed)
-  - 5-6PM time is taken for regular meeting.
+- Wednesday: **3PM-evening** (regular + on-demand themed)
+  - 4-5PM is for regular meeting.
   - other time slots: feel free to take them as needed (just update them here)
 - Friday: 11AM-1PM (AGC weekly meeting?)
 
 ### Upcoming meetings
 
-Wednesday 9/8
-- 3-4PM
-- 4-5PM: regular meeting
+Wednesday 9/1 @ Asan526 
+
+
+Wednesday 9/8 @ Asan526 
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
   - (open)
   - (open)
   - (open)
-- 5-6PM
+
+Wednesday 9/15 @ Asan526 
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - Biweekly AIML Update
+  - (open)
+  - (open)
+
+Wednesday 9/22 @ Asan526 
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - (open)
+  - (open)
+  - (open)
+
+Wednesday 9/29 @ Asan526 
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - Biweekly AIML Update
+  - (open)
+  - (open)
+
 
 
 ## 2021 summer 
