@@ -1,5 +1,25 @@
 # Meetings in AIML-K
 
+
+## 2021 fall semester
+
+All reservations are: Room 526
+- Wednesday: 3PM-evening (regular + on-demand themed)
+  - 5-6PM time is taken for regular meeting.
+  - other time slots: feel free to take them as needed (just update them here)
+- Friday: 11AM-1PM (AGC weekly meeting?)
+
+### Upcoming meetings
+
+Wednesday 9/8
+- 3-4PM
+- 4-5PM: regular meeting
+  - (open)
+  - (open)
+  - (open)
+- 5-6PM
+
+
 ## 2021 summer 
 
 Each slot is max 20 minutes (talk + Q&A), unless otherwise noted.
@@ -18,21 +38,6 @@ Monday 8/30 (regular) at Asan 526 and zoom [link](https://korea-ac-kr.zoom.us/j/
 - Biweekly lab update (@d-h-lee)
 - Introducing new members! 
 - (open)
-
-**Tuesday 8/31** (theme: summer wrap-up) - 20-minute session for everyone 
-- Share your summer experience! Not necessarily research, but you're welcome to add research flavor!
-- Time: 2PM - 6PM
-- What I've learned from Summer School(a.k.a. RL Study): Rationalism vs. Empiricism (@cth127)
-- (open)
-- (open)
-- (open)
-- (open)
-- (open)
-- (open)
-- (open)
-- (open)
-- (open)
-
 
 ### Past Meetings
 
@@ -88,22 +93,3 @@ Monday 8/23 **starting at 3PM** (*theme: MathAI paper review*) **(moved to 8/23 
 Wednesday 8/25 (no meeting)
 
 
-
-## 2021 fall semester
-
-All reservations are: Room 526
-- Wednesday: 3PM-evening (regular + on-demand themed)
-  - 5-6PM time is taken for regular meeting.
-  - other time slots: feel free to take them as needed (just update them here)
-- Friday: 11AM-1PM (AGC weekly meeting?)
-
-### Future meetings
-
-Wednesday 9/1
-- 3-4PM
-- 4-5PM
-- 5-6PM: regular meeting
-  - Keynote: on fall semester (@d-h-lee)
-  - (open)
-  - (open)
-  
