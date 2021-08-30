@@ -7,7 +7,7 @@ All reservations are: Room 526
 - Wednesday: **3PM-evening** (regular + on-demand themed)
   - 4-5PM is for regular meeting.
   - other time slots: feel free to take them as needed (just update them here)
-- Friday: 11AM-1PM (AGC weekly meeting?)
+- Friday: 4PM-5PM (AGC weekly meeting)
 
 ### Upcoming meetings
 
