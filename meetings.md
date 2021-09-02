@@ -11,12 +11,9 @@ All reservations are: Room 526
 
 ### Upcoming meetings
 
-Wednesday 9/1 @ Asan526 
-
-
 Wednesday 9/8 @ Asan526 
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
-  - (open)
+  - Github issue-branch-PR recommended practice (@d-h-lee)
   - (open)
   - (open)
 
@@ -38,6 +35,7 @@ Wednesday 9/29 @ Asan526
   - (open)
   - (open)
 
+### Past meetings
 
 
 ## 2021 summer 
