@@ -11,6 +11,14 @@ All reservations are: Room 526
 
 ### Upcoming meetings
 
+Wednesday 10/6 @ Asan526 
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - Biweekly AIML Update
+  - (open)
+  - (open)
+
+### Past meetings
+
 Wednesday 9/8 @ Asan526 
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
   - Github issue-branch-PR recommended practice (@d-h-lee)
@@ -22,20 +30,6 @@ Wednesday 9/15 @ Asan526
   - Biweekly AIML Update
   - (open)
   - (open)
-
-Wednesday 9/22 @ Asan526 
-- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
-  - (open)
-  - (open)
-  - (open)
-
-Wednesday 9/29 @ Asan526 
-- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
-  - Biweekly AIML Update
-  - (open)
-  - (open)
-
-### Past meetings
 
 
 ## 2021 summer 
