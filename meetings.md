@@ -14,7 +14,7 @@ All reservations are: Room 526
 Wednesday 10/13 @ Asan526 
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
   - Biweekly AIML Update
-  - (open)
+  - Project Update : Biomed (@wheresmadog)
   - (open)
 
 ### Past meetings
