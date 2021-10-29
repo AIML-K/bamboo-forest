@@ -15,7 +15,7 @@ SSH connects two parties - client and host - in a secure channel and plugs clien
     sudo apt update
     sudo apt install openssh-server
     ```
-    `sudo` should require to authenticate with password that is set upon your account creation.
+    `sudo` should require password for authentication that is set upon your account creation.
 3. Start `ssh` service
     ```
     sudo service ssh start
@@ -28,7 +28,7 @@ SSH connects two parties - client and host - in a secure channel and plugs clien
     ```
 
 ### Port Forwarding in Router
-1. Request administartor authority under permission. (contact to @wheresmadog or @d-h-lee)
+1. Request administartor for authority. (contact to @wheresmadog or @d-h-lee)
 2. Typing "192.168.0.1" in internet browser will lead to router setting.
 3. Setup port forwarding rule in the router setup by which external port leads to your host's internal port linstening to SSH service. (detailed setting varies depending on its manufacture company)
 
