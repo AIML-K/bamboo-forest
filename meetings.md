@@ -10,9 +10,9 @@ All reservations are: Room 526
 - Friday: 4PM-5PM (AGC weekly meeting)
 
 ### Upcoming meetings
-Wednesday 11/3 @ Asan526
+Wednesday 11/10 @ Asan526
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
-  - Project update: fashion(@dkimds)
+  - Review: AGC2021(@cth127)
   - (open)
   - (open) 
 
@@ -35,6 +35,12 @@ Wednesday 10/13 @ Asan526
   - Biweekly AIML Update
   - Project Update : Biomed (@wheresmadog)
   - (open)
+
+Wednesday 11/3 @ Asan526
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - Project update: fashion(@dkimds)
+  - (open)
+  - (open) 
 
 ## 2021 summer 
 
