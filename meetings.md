@@ -10,11 +10,13 @@ All reservations are: Room 526
 - Friday: 4PM-5PM (AGC weekly meeting)
 
 ### Upcoming meetings
-Wednesday 11/10 @ Asan526
+
+Wednesday 12/8 @ Asan526
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
-  - Review: AGC2021(@cth127)
+  - Discussion: what should be taught to the lab newcomers?
   - (open)
-  - (open) 
+  - (open)
+  - 랩미팅 후 특별활동: AGC2 만들어진 샘플문제 검수
 
 ### Past meetings
 
@@ -39,6 +41,12 @@ Wednesday 10/13 @ Asan526
 Wednesday 11/3 @ Asan526
 - 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
   - Project update: fashion(@dkimds)
+  - (open)
+  - (open) 
+  - 
+Wednesday 11/10 @ Asan526
+- 4-5PM: regular meeting [zoom](https://korea-ac-kr.zoom.us/j/89808461585?pwd=YVNBcllpclY0dXUzU29meTdWdFZJUT09)
+  - Review: AGC2021(@cth127)
   - (open)
   - (open) 
 
