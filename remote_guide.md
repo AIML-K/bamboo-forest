@@ -46,7 +46,7 @@ VPN directly connects to a client into a LAN as if the client is physically conn
 1. Fill the form; 보안신청서 #3 downloaded from [here](https://ic.korea.ac.kr/ic/about/service.do).
     - Fill basic info
     - Destination IP: Check out in the router setup
-    - PORT: 22
+    - PORT: any nubmer you want, and please avoid using duplicated number with other members. The occupied port number table will soon be added.
     - 사용기간: 1년
     - 사용할 ID: Pick your IDs, for example, "example1" and "example2"
     - 사용목적: SSH
@@ -71,6 +71,11 @@ For user authhentication SSH requires user password every time you connect to yo
         ```
         ssh-copy-id -p {port number} {user}@{host ip}
         ```
+        Equivalently,
+        ```
+        ssh-copy-id -p {port number} -i {path to public key} {user}@{host ip}
+        ```
+        `{path to public key}` is `~/.ssh/id_rsa.pub` by default, having RSA key generated on your host.
     - Windows
         ```
         type {path to public key} | ssh -p {port} {user}@{host ip} "cat >> /.ssh/authorized_keys"
