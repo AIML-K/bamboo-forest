@@ -15,9 +15,9 @@ Spring is here!
   - Topic TBA
 - 3/23: Lab meeting
   - Project update: Earthquake @d-h-lee
-  - ()
+  - Code review: Fashion @dkimds
 - 3/30: Lab meeting
-  - () 
+  - Project update: Fashion @dkimds
   - ()
 
 ## Weekly Lab Meeting
