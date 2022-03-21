@@ -14,10 +14,12 @@ Spring is here!
 - 3/18: Seminar
   - Topic TBA
 - 3/23: Lab meeting
+  - Code review(3pm): Fashion @dkimds
   - Project update: Earthquake @d-h-lee
-  - ()
+- 3/25: Seminar
+  - Project update(11am): Fashion @dkimds
 - 3/30: Lab meeting
-  - () 
+  - ()
   - ()
 
 ## Weekly Lab Meeting
