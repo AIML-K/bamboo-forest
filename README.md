@@ -13,11 +13,14 @@ Spring is here!
   - Project update: Fashion @d-h-lee
 - 3/18: Seminar
   - Topic TBA
-- 3/23: Lab meeting
+- 3/23 (Wed)
   - Code review(3pm): Fashion @dkimds
-  - Project update: Earthquake @d-h-lee
-- 3/25: Seminar
-  - Project update(11am): Fashion @dkimds
+  - Lab meeting(4-5pm)
+    - (empty slot)
+    - Project update: Earthquake @d-h-lee
+- 3/25 (Fri)
+  - Seminar (11am) Project update(11am): Fashion @dkimds
+  - 안전교육 lunch (12noon-)
 - 3/30: Lab meeting
   - ()
   - ()
