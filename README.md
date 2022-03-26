@@ -13,7 +13,7 @@ Spring is here!
   - Project update: Fashion @d-h-lee
 - 3/18: Seminar
   - Topic TBA
-- 3/23: Lab meeting
+- 3/23: Lab meeting (note: #36)
   - Code review(3pm): Fashion @dkimds
   - Project update: Earthquake @d-h-lee
 - 3/25: Seminar
