@@ -19,8 +19,8 @@ Spring is here!
 - 3/25: Seminar
   - Project update(11am): Fashion @dkimds
 - 3/30: Lab meeting
-  - ()
-  - ()
+  - Student seminar (#40) @JiyoonJ
+  - SotL @d-h-lee
 
 ## Weekly Lab Meeting
 
