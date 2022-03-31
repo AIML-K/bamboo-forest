@@ -19,8 +19,10 @@ Spring is here!
 - 3/25: Seminar
   - Project update(11am): Fashion @dkimds
 - 3/30: Lab meeting
-  - ()
-  - ()
+  - Talk: Jiyun Jung
+  - Code review: Yangee Kim
+- 4/1: Seminar
+  - Demo: Fashion @dkimds
 
 ## Weekly Lab Meeting
 
