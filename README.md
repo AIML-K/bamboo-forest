@@ -23,6 +23,11 @@ Spring is here!
   - Code review: Yangee Kim
 - 4/1: Seminar
   - Demo: Fashion @dkimds
+- 4/6 Wed
+  - 1pm: Earthquake weekly
+  - 2:30pm: MathAI weekly
+  - 4pm: Lab meeting @ ASB 526
+  - 5pm: Fashion weekly 
 
 ## Weekly Lab Meeting
 
