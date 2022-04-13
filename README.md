@@ -28,6 +28,11 @@ Spring is here!
   - 2:30pm: MathAI weekly
   - 4pm: Lab meeting @ ASB 526
   - 5pm: Fashion weekly 
+- 4/13 Wed
+  - 1pm: Earthquake weekly
+  - 2:30pm: MathAI weekly
+  - 4pm: Fashion weekly 
+  - 5pm: Lab meeting @ ASB 526
 
 ## Weekly Lab Meeting
 
