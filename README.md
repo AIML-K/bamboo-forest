@@ -42,6 +42,9 @@ Spring is here!
   - 2:30pm: MathAI weekly
   - 4pm: Fashion weekly 
   - 5pm: Lab meeting @ ASB 526
+- 4/22 Fri
+  - 10am: 딥러닝세미나 (topic TBA)
+  - 12noon- BYOB weekly 
 
 ## Weekly Lab Meeting
 
