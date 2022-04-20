@@ -37,6 +37,11 @@ Spring is here!
   - 10am: Fashion (detectron2, deployed on docker, via REST API) demo @ ASB 526
   - 11:10am: MathAI Labeling (See #49) @ ASB 526
   - 12noon- BYOB weekly 
+- 4/13 Wed
+  - 1pm: Earthquake weekly @ ASB 526
+  - 2:30pm: MathAI weekly
+  - 4pm: Fashion weekly 
+  - 5pm: Lab meeting @ ASB 526
 
 ## Weekly Lab Meeting
 
