@@ -43,7 +43,7 @@ Spring is here!
   - 4pm: Fashion weekly 
   - 5pm: Lab meeting @ ASB 526
 - 4/22 Fri
-  - 10am: 딥러닝세미나 (topic TBA)
+  - 10am: 딥러닝세미나 [paper](https://arxiv.org/abs/1706.02275) (code [avail](https://github.com/openai/maddpg) but tf1)
   - 12noon- BYOB weekly 
 
 ## Weekly Lab Meeting
