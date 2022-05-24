@@ -46,9 +46,22 @@ Spring is here!
   - 10am: 딥러닝세미나 [paper](https://arxiv.org/abs/1706.02275) (code [avail](https://github.com/openai/maddpg) but tf1)
   - 12noon- BYOB weekly 
 
+...
+
+- 5/25 Wed
+  - 1pm: Earthquake weekly 
+  - 4pm: Fashion weekly
+  - 5pm: Lab meeting 
+- 5/27 Fri
+- 6/1 Wed *Election Day* No weekly today
+  - Team leads, please find alternate time for this week   
+- 6/3 Fri
+- 6/8 Wed
+  - 1pm: Earthquake weekly 
+
 ## Weekly Lab Meeting
 
-Wednesday 4PM-5PM. 
+Wednesday 5PM-6PM. 
 All grads should attend the meeting. 
 
 There is dinner after the meeting. 
