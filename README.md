@@ -52,7 +52,8 @@ Spring is here!
   - 1pm: Earthquake weekly 
   - 4pm: Fashion weekly
   - 5pm: Lab meeting 
-- 5/27 Fri
+- 5/27 Fri  
+  - 10am: Paper review
 - 6/1 Wed *Election Day* No weekly today
   - Team leads, please find alternate time for this week   
 - 6/3 Fri
