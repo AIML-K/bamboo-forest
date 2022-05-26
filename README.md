@@ -53,7 +53,7 @@ Spring is here!
   - 4pm: Fashion weekly
   - 5pm: Lab meeting 
 - 5/27 Fri  
-  - 10am: Paper review
+  - 10am: 딥러닝세미나 MADDPG [link](https://antonai.blog/multi-agent-reinforcement-learning-openais-maddpg/)
 - 6/1 Wed *Election Day* No weekly today
   - Team leads, please find alternate time for this week   
 - 6/3 Fri
