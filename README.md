@@ -8,6 +8,8 @@ Spring is here!
 
 ## Events
 
+### Spring 2022
+
 - 3/16: Lab meeting
   - Introduction: prepare your own intro. @all
   - Project update: Fashion @d-h-lee
@@ -59,6 +61,14 @@ Spring is here!
 - 6/3 Fri
 - 6/8 Wed
   - 1pm: Earthquake weekly 
+  - 4pm: Fashion weekly
+  - 5pm: Townhall meeting
+- 6/15 Wed
+  - 5pm: Townhall meeting
+- 6/17 Fri
+  - 11am: Fashion update by @dkimds
+- 6/22 Wed
+  - 5pm: Townhall meeting
 
 ## Weekly Lab Meeting
 
