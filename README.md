@@ -12,7 +12,7 @@ Spring is here!
 
 - 7/6 ASB 526
   - 1pm: Earthquake weekly
-  - 2:30pm: Special seminar on Epoxy
+  - 4pm: Special seminar on Epoxy
   - 5pm: Townhall meeting
 - 7/13 ASB 526
 
