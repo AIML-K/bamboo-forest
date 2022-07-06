@@ -4,17 +4,19 @@ Feel free to post issues and contribute to any issues.
 
 # Announcements
 
-Spring is here! 
+Summer 2022 begins!
 
 ## Events
 
 ### Summer 2022
 
-- 7/6 ASB 526
+- 7/6 @ ASB 526
   - 1pm: Earthquake weekly
   - 4pm: Special seminar on Epoxy
   - 5pm: Townhall meeting
-- 7/13 ASB 526
+- 7/12 @ 메디힐 유임순홀
+  - 10am-5pm?: Project Earthquake Workshop [#63](https://github.com/AIML-K/bamboo-forest/issues/63)
+- 7/13 @ ASB 526
 
 
 ### Spring 2022
