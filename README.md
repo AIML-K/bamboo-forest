@@ -8,6 +8,15 @@ Spring is here!
 
 ## Events
 
+### Summer 2022
+
+- 7/6 ASB 526
+  - 1pm: Earthquake weekly
+  - 2:30pm: Special seminar on Epoxy
+  - 5pm: Townhall meeting
+- 7/13 ASB 526
+
+
 ### Spring 2022
 
 - 3/16: Lab meeting
@@ -69,6 +78,8 @@ Spring is here!
   - 11am: Fashion update by @dkimds
 - 6/22 Wed
   - 5pm: Townhall meeting
+
+
 
 ## Weekly Lab Meeting
 
