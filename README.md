@@ -17,6 +17,7 @@ Summer 2022 begins!
 - 7/12 @ 메디힐 유임순홀
   - 10am-5pm?: Project Earthquake Workshop [#63](https://github.com/AIML-K/bamboo-forest/issues/63)
 - 7/13 @ ASB 526
+  - No earthquake meeting today
 
 
 ### Spring 2022
