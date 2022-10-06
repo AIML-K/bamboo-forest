@@ -9,20 +9,22 @@ Time: Oct 7, 2022 10:00 AM Seoul
 아산이학관 526호
 
 ### 원격 참여 주소
-Join Zoom Meeting https://korea-ac-kr.zoom.us/j/95967575514?pwd=ZERGQTVKVXUzUnRFOVZJd2w1L0xtUT09
-Meeting ID: 959 6757 5514
-Passcode: NdGP7yLiiF
+- Join Zoom Meeting https://korea-ac-kr.zoom.us/j/95967575514?pwd=ZERGQTVKVXUzUnRFOVZJd2w1L0xtUT09
+- Meeting ID: 959 6757 5514
+- Passcode: NdGP7yLiiF
 
 
 ## Timetable 
 
-10-11am: AIML-K talks: 차태훈, ?
-11-12noon: Undergrad talks AM: 성재혁, 정창해, 황산하
-12noon-1pm: MDS talks: 박지연, 이재혁
-~2pm: lunch
-2pm-3pm: Undergrad talks PM: 정혜원, 홍여빈
-3-4pm: Earthquake talks: 조근석, 한종원, ?
-4-5pm: Research proposal talks: 김양기, 김한영
+시간은 조금씩 앞뒤로 조정될 수 있습니다. 실황은 줌 링크를 통해 확인해 주세요!
+
+- 10-11am: AIML-K talks: 차태훈, ?
+- 11-12noon: Undergrad talks AM: 성재혁, 정창해, 황산하
+- 12noon-1pm: MDS talks: 박지연, 이재혁
+- ~2pm: lunch
+- 2pm-3pm: Undergrad talks PM: 정혜원, 홍여빈
+- 3-4pm: Earthquake talks: 조근석, 한종원, ?
+- 4-5pm: Research proposal talks: 김양기, 김한영
 
 ## Detailed Schedule & Info
 
