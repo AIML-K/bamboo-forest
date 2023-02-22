@@ -3,7 +3,10 @@
 
 - Winter session is active: Jan-Feb 2023
 
-# Meetings and Events 
+# Meetings and Events
+
+## Workshops
+- https://sites.google.com/view/aimlk-workshops
 
 ## Upcoming Events
 
