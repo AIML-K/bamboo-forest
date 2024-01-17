@@ -15,7 +15,9 @@
   - [Fall 2022 workshop](https://sites.google.com/view/aimlk-workshops/2022-fall)
 
 - Jan.24
-  - EQ_Noise_Gen Presentation
+  - 13:00 **Epoxy** Presentation
+  - 15:00 **EQ**_Noise_Gen Presentation
+    
 ## Regular Meeting Schedule
 
 - Wednesday 1-3PM @ ASB 526 or Zoom: ?
