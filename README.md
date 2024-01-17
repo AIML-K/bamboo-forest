@@ -14,6 +14,8 @@
   - [Spring 2023 Workshop](https://sites.google.com/view/aimlk-workshops/2023-spring)
   - [Fall 2022 workshop](https://sites.google.com/view/aimlk-workshops/2022-fall)
 
+- Jan.24
+  - EQ_Noise_Gen Presentation
 ## Regular Meeting Schedule
 
 - Wednesday 1-3PM @ ASB 526 or Zoom: ?
